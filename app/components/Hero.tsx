@@ -18,7 +18,7 @@ export default function Hero({ onShop }: HeroProps) {
       <div className="absolute inset-0">
         <img
           src="https://images.pexels.com/photos/15774210/pexels-photo-15774210.png"
-          alt="Atelier Maharani collection"
+          alt="Jagdamba collection"
           className="w-full h-full object-cover"
         />
 

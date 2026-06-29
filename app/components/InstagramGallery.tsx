@@ -79,7 +79,7 @@ export default function InstagramGallery({
 
               <img
                 src={image}
-                alt="Maharani Atelier Instagram"
+                alt="Jagdamba Instagram"
                 className="
                   w-full
                   h-full

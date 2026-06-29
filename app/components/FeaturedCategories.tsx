@@ -73,7 +73,7 @@ export default function FeaturedCategories({
   {/* The Background Image Component Context */}
   <img
     src="https://images.pexels.com/photos/9890206/pexels-photo-9890206.jpeg"
-    alt="Atelier Maharani collection"
+    alt="Jagdamba collection"
     className="absolute inset-0 w-full h-full object-cover -z-10 object-center"
   />
 
